@@ -19,7 +19,7 @@ This project focuses on deploying **Splunk** in a home lab environment to monito
 - **Windows Server** and **Linux VMs** (for generating logs).
 - **Splunk Free Edition** (for SIEM setup).
 
-#### Steps 1: installed and configured VMs:
+#### Steps 
 1. Installed **VirtualBox** create virtual machines (VMs) for Windows and Linux.
 2. Ensured network connectivity between the VMs.
 3. Assigned static IP addresses.
